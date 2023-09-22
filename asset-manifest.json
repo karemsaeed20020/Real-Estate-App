@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Real-Estate-App/static/css/main.bb509019.css",
+    "main.js": "/Real-Estate-App/static/js/main.b59e9c2c.js",
+    "static/js/787.25448456.chunk.js": "/Real-Estate-App/static/js/787.25448456.chunk.js",
+    "static/media/about (1).jpg": "/Real-Estate-App/static/media/about (1).56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/Real-Estate-App/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/Real-Estate-App/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "index.html": "/Real-Estate-App/index.html",
+    "main.bb509019.css.map": "/Real-Estate-App/static/css/main.bb509019.css.map",
+    "main.b59e9c2c.js.map": "/Real-Estate-App/static/js/main.b59e9c2c.js.map",
+    "787.25448456.chunk.js.map": "/Real-Estate-App/static/js/787.25448456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb509019.css",
+    "static/js/main.b59e9c2c.js"
+  ]
+}
